@@ -23,7 +23,7 @@ A machine learning-powered web application that predicts real estate prices base
 
 1. Clone the repository:
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Zoeayilara/Real-Estate-Price-Predictor.git
 ```
 
 2. Install dependencies:
